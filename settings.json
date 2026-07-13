@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SkySMP_chaos.aternos.me:55373",
+    "ip": "SkySMP_chaos.aternos.me",
     "port": 55373,
     "version": "",
     "try-creative": false
